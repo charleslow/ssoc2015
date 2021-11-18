@@ -1,0 +1,1775 @@
+,ssoc_2015,ssoc_2015_title
+0,1,"Legislators, Senior Officials And Managers"
+1,11,"Legislators, Senior Officials And Chief Executives"
+2,111,Legislators And Senior Officials
+3,1111,Legislators
+4,11110,Legislator
+5,1112,Senior Government And Statutory Board Officials
+6,11121,Senior Government Official
+7,11122,Senior Statutory Board Official
+8,1114,Senior Officials Of Political Party Organisations
+9,11140,Senior Official Of Political Party Organisation
+10,1115,"Senior Officials Of Employers’, Workers’ And Other Economic-Interest Organisations"
+11,11150,"Senior Official Of Employers’, Workers' And Other Economic-Interest Organisation"
+12,1116,Senior Officials Of Humanitarian And Other Special-Interest Organisations
+13,11160,Senior Official Of Humanitarian And Other Special-Interest Organisation
+14,112,"Managing Directors, Chief Executives And General Managers"
+15,1120,"Managing Directors, Chief Executives And General Managers"
+16,11201,Managing Director/Chief Executive Officer
+17,11202,Company Director
+18,11203,Chief Operating Officer/General Manager
+19,12,Administrative And Commercial Managers
+20,121,Business Services And Administration Managers
+21,1211,Finance And Administration Managers
+22,12111,Budgeting And Financial Accounting Manager (Including Financial Controller)
+23,12112,Administration Manager
+24,1212,Human Resource Managers
+25,12121,Personnel/Human Resource Manager
+26,12122,Industrial Relations Manager
+27,12123,Training Manager
+28,1213,Policy And Planning Managers
+29,12130,Policy And Planning Manager
+30,1219,Business Services And Administration Managers Not Elsewhere Classified
+31,12191,Premises And Facilities Maintenance Manager (Including Building Security Manager)
+32,12192,Landscape Operations Manager
+33,12193,Working Proprietor (Business Services And Administrative Services)
+34,12199,Other Business Services And Administration Managers N.E.C.
+35,122,"Sales, Marketing, Development And Customer Service Managers"
+36,1221,"Sales, Marketing And Business Development Managers"
+37,12211,Sales And Marketing Manager
+38,12212,Business Development Manager
+39,1222,Advertising And Public Relations Managers
+40,12220,Advertising/Public Relations Manager
+41,1223,Research And Development Managers
+42,12230,Research And Development Manager
+43,1224,Customer Service And Call Centre Managers
+44,12241,Customer Service Manager
+45,12242,Call Centre Manager
+46,13,Production And Specialised Services Managers
+47,131,Production Managers In Agriculture And Fisheries
+48,1310,Production Managers In Agriculture And Fisheries
+49,13101,Production Manager In Agriculture And Fisheries
+50,13102,Working Proprietor (Agriculture And Fisheries)
+51,132,"Manufacturing, Construction, Transport, Distribution And Other Production And Operations Managers"
+52,1321,Manufacturing Managers
+53,13211,Manufacturing Plant/Production Manager
+54,13212,Working Proprietor (Manufacturing)
+55,1323,Construction Managers
+56,13231,Building And Construction Project Manager
+57,13232,Working Proprietor (Construction)
+58,1324,"Transport, Supply, Distribution And Related Managers"
+59,13241,Supply And Distribution/Logistics/Warehousing Manager
+60,13242,Procurement/Purchasing Manager
+61,13243,Transport Operations Manager
+62,13244,Postal Service Manager
+63,13245,"Working Proprietor (Transport, Storage And Courier)"
+64,1329,Production And Operations Managers Not Elsewhere Classified
+65,13291,Technical/Engineering Services Manager (Eg Shipyard Manager)
+66,13292,Quality Assurance Manager
+67,13299,Other Production And Operations Managers N.E.C. (Eg Mining Manager)
+68,133,Information And Communications Technology Service Managers
+69,1330,Information And Communications Technology Service Managers
+70,13301,Chief Information Officer/Chief Technology Officer/Chief Security Officer
+71,13302,Software And Applications Manager
+72,13303,Network And Communications Manager
+73,13304,It Service Manager
+74,13305,Working Proprietor (Information And Communications Technology Service)
+75,134,"Professional, Financial, Community And Social Services Managers"
+76,1341,Child Care Services Managers
+77,13410,Child Care Services Manager
+78,1342,Health Services Managers
+79,13420,Health Services Manager
+80,1343,Aged Care Services Managers
+81,13430,Aged Care Services Manager
+82,1344,Social Welfare Managers
+83,13440,Social Welfare Manager
+84,1345,Education And Training Institution Managers
+85,13451,School Principal
+86,13459,"Other Education Managers (Including Registrars, Deans Of Education Institutions And Heads Of Training Institutions)"
+87,1346,Financial And Insurance Services Managers
+88,13460,Financial/Insurance Services Manager (Eg Financial Institution Branch Manager)
+89,1349,"Professional, Financial, Community And Social Services Managers Not Elsewhere Classified"
+90,13491,"Working Proprietor (Professional, Financial, Community And Social Services)"
+91,13499,"Other Professional, Financial, Community And Social Services Managers"
+92,14,"Hospitality, Retail And Related Services Managers"
+93,141,Hotel And Food And Beverages Services Managers
+94,1411,Hotel Operations And Lodging Services Managers
+95,14111,Hotel Operations/Lodging Services Manager
+96,14112,Working Proprietor (Lodging Services)
+97,1412,Food And Beverages Services Managers
+98,14121,Restaurant Manager
+99,14122,Catering Services Manager
+100,14123,Working Proprietor (Restaurant And Other Catering Services)
+101,142,Retail And Wholesale Trade Managers
+102,1420 ,Retail And Wholesale Trade Managers
+103,14201,Retail/Shop Sales Manager
+104,14202 ,Wholesale Trade Manager
+105,14203,Working Proprietor (Retail Trade)
+106,14204 ,Working Proprietor (Wholesale Trade)
+107,143,Other Services Managers
+108,1431,Sports Centre Managers
+109,14310,Sports Centre Manager
+110,1432,Recreation Centre Managers
+111,14321,Casino Operations Manager
+112,14322,Amusement/Theme Park Manager
+113,14323,Cinema Manager
+114,14324,Park/Garden/Nature Reserve Manager
+115,14325,Discotheque/Karaoke/Nightclub Manager
+116,14326,Wellness Centre Manager (Eg Hair/Beauty/Slimming/Spa/Manicure/ Massage)
+117,14327,Community/Country Club Manager
+118,14329,Other Recreation Centre Managers
+119,1433,Arts And Cultural Centre Managers
+120,14330,Arts And Cultural Centre Manager (Including Gallery And Museum Manager)
+121,1439,Other Services Managers Not Elsewhere Classified
+122,14391,"Working Proprietor (Sports, Recreation, Arts And Other Services)"
+123,14392,Travel Agency Manager
+124,14399,Other Services Managers N.E.C.
+125,2,Professionals
+126,21,Science And Engineering Professionals
+127,211,Physical And Earth Science Professionals
+128,2111,Physicists And Astronomers
+129,21110,Physicist/Astronomer
+130,2112,Meteorologists
+131,21120,Meteorologist
+132,2113,Chemists
+133,21130,Chemist
+134,2114,"Geologists, Geophysicists And Other Physical Science Professionals"
+135,21141,Geologist
+136,21142,Geophysicist
+137,21149,Other Physical Science Professionals
+138,212,"Mathematicians, Actuaries, Statisticians And Other Related Professionals"
+139,2121,"Mathematicians, Operations Research Analysts And Actuaries"
+140,21211,Mathematician
+141,21212,Operations Research Analyst
+142,21213,Actuary
+143,2122,Statisticians
+144,21220,Statistician
+145,2123,"Other Statistical, Mathematical And Actuarial Professionals"
+146,21231,Statistical Officer
+147,21232,Research Officer (Statistical)
+148,21239,"Other Statistical, Mathematical And Actuarial Professionals"
+149,213,Life Science Professionals
+150,2131,"Biologists, Botanists, Zoologists And Related Professionals"
+151,21311,Biologist (General)
+152,21312,Botanist
+153,21313,Zoologist
+154,21319,"Other Biologists, Botanists, Zoologists And Related Professionals"
+155,2132,"Farming, Forestry And Fishery Advisers"
+156,21321,Agronomist
+157,21322,Horticulturist/Arborist
+158,21323,Plant Pathologist
+159,21324,Soil Scientist
+160,21325,Floriculturist/Orchidologist
+161,21326,Plant Tissue Culturist
+162,21327,Aquaculturist
+163,21329,"Other Farming, Forestry And Fishery Advisers"
+164,2133,Environmental Protection And Related Professionals
+165,21331,Environmental Officer (Environmental Protection)
+166,21332,Environment Research Scientist (Eg Ecologist)
+167,21333,Energy Manager
+168,21339,Other Environmental Protection And Related Professionals
+169,2134,Pharmacologists And Related Professionals
+170,21341,Pharmacologist
+171,21342,Anatomist
+172,21343,Biochemist
+173,21344,Physiologist
+174,21345,Animal Scientist
+175,21346,Medical Scientist
+176,21347,Clinical Research Professionals
+177,21349,Other Pharmacologists And Related Professionals
+178,214,Engineering Professionals (Excluding Electrotechnology)
+179,2141,Industrial And Production Engineers
+180,21411,Manufacturing Engineer (General)
+181,21412,Production Engineer
+182,21413,Automation Engineer
+183,21414,Quality Control/Assurance Engineer
+184,21419,Other Industrial And Production Engineers
+185,2142,Civil Engineers
+186,21421,Civil Engineer (General)
+187,21422,Structural Engineer (General)
+188,21423,Building Construction Engineer
+189,21424,Soil Mechanic/Piling Engineer
+190,21429,Other Civil Engineers
+191,2143,Environmental Engineers
+192,21431,Environmental Engineer
+193,21432,Sewerage/Sanitary Engineer
+194,2144,Mechanical Engineers
+195,21441,Mechanical Engineer (General)
+196,21442,Industrial Machinery And Tools Engineer
+197,21443,Marine Engineer (Shore-Based)
+198,21444,Naval Architect
+199,21445,Aeronautical Engineer
+200,21446,Automotive Engineer
+201,21447,Air-Conditioning/Refrigeration Engineer
+202,21449,Other Mechanical Engineers
+203,2145,Chemical Engineers
+204,21451,Chemical Engineer (General)
+205,21452,Chemical Engineer (Petroleum)
+206,21453,Chemical Engineer (Petrochemicals)
+207,21459,Other Chemical Engineers
+208,2146,"Mining Engineers, Metallurgists And Related Professionals"
+209,21461,Petroleum/Natural Gas Engineer
+210,21462,Metallurgist
+211,21469,"Other Mining Engineers, Metallurgists And Related Professionals"
+212,2149,Engineering Professionals Not Elsewhere Classified
+213,21491,Biomedical Engineer
+214,21492,Materials Engineer
+215,21493,Industrial Safety Engineer
+216,21494,Quantity Surveyor
+217,21495,Ceramics/Glass Technologist
+218,21496,Food And Drink Technologist
+219,21497,Optical Engineer (Including Laser Engineer)
+220,21498,Safety And Security Consultant
+221,21499,Other Engineering Professionals N.E.C.
+222,215,Electrotechnology Engineers
+223,2151,Electrical Engineers
+224,21511,Electrical Engineer (General)
+225,21512,Power Generation And Distribution Engineer
+226,21513,Lift Engineer
+227,21519,Other Electrical Engineers
+228,2152,Electronics Engineers
+229,21521,Electronics Engineer (General)
+230,21522,Computer Engineer
+231,21523,Semi-Conductor Engineer
+232,21524,Audio And Video Equipment Engineer
+233,21525,Instrumentation Engineer
+234,21526,Embedded Systems Engineer
+235,21529,Other Electronics Engineers
+236,2153,Telecommunications Engineers
+237,21530,Telecommunications Engineer
+238,216,"Architects, Planners, Surveyors And Designers"
+239,2161,Building Architects
+240,21610,Building Architect
+241,2162,Landscape Architects
+242,21620,Landscape Architect
+243,2163,"Fashion, Garment And Product Designers"
+244,21631,Fashion/Garment Designer (Including Jewellery Designer)
+245,21632,Product And Industrial Designer
+246,2164,Town And Related Planners
+247,21641,Town Planner
+248,21649,Other Related Planners (Eg Traffic Planner)
+249,2165,Surveyors And Cartographers
+250,21651,Surveyor (General)
+251,21652,Land Surveyor
+252,21653,Hydrographic Surveyor
+253,21654,Cartographer
+254,21659,Other Surveyors And Cartographers
+255,2166,Graphic And Multimedia Designers And Artists
+256,21661,Graphic Designer
+257,21662,Multimedia (Including Computer Games) Designer
+258,21663,Multimedia Artist
+259,21664,Animator
+260,21665,Interaction/User Experience Designer
+261,21666,Commercial Artist
+262,21669,Other Graphic And Multimedia Designers And Artists
+263,217,Ship And Aircraft Related Professionals
+264,2171,Ship Engineers And Related Professionals
+265,21711,Chief Engineer (Ship)
+266,21712,Marine Superintendent Engineer
+267,21713,Ship Captain
+268,21714,Marine Superintendent (Deck)
+269,2172,Aircraft Pilots And Related Professionals
+270,21721,Commercial Airline Pilot
+271,21722,Aircraft Pilot (Except Commercial Airline And Air Force)
+272,21723,Flight Navigator
+273,21724,Flight Engineer
+274,21725,Flying Instructor (Except Air Force)
+275,21729,Other Aircraft Pilots And Related Associate Professionals
+276,22,Health Professionals
+277,221,Medical Doctors
+278,2211,Generalist Medical Practitioners
+279,22110,General Practitioner/Physician
+280,2212,Specialist Medical Practitioners (Medical)
+281,22121,Cardiologist
+282,22122,Dermatologist
+283,22123,Gastroenterologist
+284,22124,Internal Medicine Physician
+285,22125,Medical Oncologist
+286,22126,Paediatrician
+287,22127,Respiratory Physician
+288,22128,Psychiatrist
+289,22129,"Other Specialist Medical Practitioners (Medical) (Eg Endocrinologist, Geriatrician, Haematologist, Infectious Diseases Physician, Neurologist, Nuclear Medicine Physician, Rehabilitation Physician, Renal Physician, Rheumatologist)"
+290,2213,Specialist Medical Practitioners (Surgical)
+291,22131,General Surgeon
+292,22132,Cardiothoracic Surgeon
+293,22133,Hand Surgeon
+294,22134,Neurosurgeon
+295,22135,Orthopaedic Surgeon
+296,22136,Paediatric Surgeon
+297,22137,Plastic Surgeon
+298,22138,Urologist
+299,22139,Other Specialist Medical Practitioners (Surgical)
+300,2214,Specialist Medical Practitioners (Other Specialisations) - I
+301,22141,Anaesthesiologist
+302,22142,Diagnostic Radiologist
+303,22143,Emergency Physician
+304,22144,Obstetrician/Gynaecologist
+305,22145,Ophthalmologist
+306,22146,Pathologist
+307,22147,Public Health Physician
+308,22148,"Otorhinolaryngologist/Ear, Nose, Throat (Ent) Specialist"
+309,2215,Specialist Medical Practitioners (Other Specialisations) - Ii (Con'Td)
+310,22151,Sports Physician
+311,22159,"Other Specialist Medical Practitioners (Other Specialisations) (Eg Occupational Physician, Radiation Oncologist)"
+312,222,Nursing Professionals
+313,2220,Nursing Professionals
+314,22200,"Registered Nurse And Other Nursing Professionals (Eg Clinical Nurse, Nurse Educator, Excluding Enrolled Nurse)"
+315,223,Traditional And Complementary Medicine Professionals
+316,2230,Traditional And Complementary Medicine Professionals
+317,22301,Traditional Chinese Medicine Practitioner
+318,22302,Traditional Chinese Medicine Acupuncturist
+319,225,Veterinarians
+320,2250,Veterinarians
+321,22500,Veterinarian
+322,226,Other Health Professionals
+323,2261,Dentists
+324,22611,Dentist (General)
+325,22612,Specialised Dentist (Eg Orthodontist)
+326,2262,Pharmacists
+327,22621,Pharmacist (Patient Care)
+328,22629,Other Pharmacists
+329,2263,Environmental And Occupational Health And Hygiene Professionals
+330,22631,Occupational Health Professional (Eg Occupational Hygienists And Occupational Hygiene Officer)
+331,22632,Environmental Officer (Public Health)
+332,22639,Other Environmental And Occupational Health And Hygiene Professionals
+333,2264,Physiotherapists And Related Professionals
+334,22641,Physiotherapist
+335,22649,Other Physical Therapists And Related Professionals
+336,2265,Dietitians And Nutritionists
+337,22651,Dietitian
+338,22652,Nutritionist
+339,2266,Audiologists And Speech Therapists
+340,22661,Audiologist
+341,22662,Speech Therapist
+342,2267,Optometrists
+343,22670,Optometrist
+344,2268,Occupational Therapists
+345,22680,Occupational Therapist
+346,2269,Other Health Professionals Not Elsewhere Classified
+347,22691,Osteopath
+348,22692,Chiropractor
+349,22693,Podiatrist
+350,22694,Medical Diagnostic Radiographer
+351,22695,Radiation Therapist
+352,22699,Other Health Professionals N.E.C.
+353,23,Teaching And Training Professionals
+354,231,"University, Polytechnic And Higher Education Teachers"
+355,2310,"University, Polytechnic And Higher Education Teachers"
+356,23101,University Lecturer
+357,23102,Polytechnic Lecturer
+358,23103,Teaching Assistant/Tutor In Universities
+359,23109,"Other University, Polytechnic And Higher Education Teachers"
+360,232,Junior College And Pre-University Education Teachers
+361,2320,Junior College And Pre-University Education Teachers
+362,23200,Junior College And Pre-University Teacher (Including Integrated Programme Year 5-6 Teacher)
+363,233,Vocational Education Teachers And Trainers
+364,2330,Vocational Education Teachers And Trainers
+365,23300,Technical/Vocational/Commercial Education Institute Teacher And Trainer
+366,234,Secondary Education Teachers
+367,2340,Secondary Education Teachers
+368,23400,Secondary School Teacher (Including Integrated Programme Year 1-4 Teacher)
+369,235,Primary Education Teachers
+370,2350,Primary School Teachers
+371,23500,Primary School Teacher
+372,236,Other Teaching Professionals
+373,2361,Education Methods Specialists
+374,23611,Education Methods Adviser
+375,23612,Teaching Aid Specialist (Including Audio-Visual Aid Specialist)
+376,23619,Other Education Methods Specialists
+377,2362,Special Education Teachers
+378,23621,Teacher Of The Blind
+379,23622,Teacher Of The Deaf
+380,23623,Teacher Of The Mentally Handicapped
+381,23624,Special Education Teachers For Infants And Children (Eg Early Intervention Programme For Infants And Children Teachers)
+382,23629,Other Special Education Teachers
+383,2369,Other Teaching Professionals Not Elsewhere Classified
+384,23690,Other Teaching Professionals N.E.C.
+385,24,Business And Administration Professionals
+386,241,Finance Professionals
+387,2411,Accountants
+388,24111,Accountant (Excluding Tax Accountant)
+389,24112,Auditor (Accounting)
+390,24113,Tax Accountant
+391,2412,Financial And Investment Advisers
+392,24120,Financial/Investment Adviser (Eg Relationship Manager)
+393,2413,Financial Analysts And Related Professionals
+394,24131,"Financial Analyst (Eg Equities Analyst, Credit Analyst, Investment Research Analyst)"
+395,24132,Compliance Officer/Risk Analyst (Financial)
+396,24133,Fund/Portfolio Manager (Including Asset Allocator)
+397,24134,Treasury Manager
+398,24139,Other Financial Analysts And Related Professionals (Eg Financial Product Structurer/Product Controller)
+399,2414,Securities And Finance Dealers And Brokers
+400,24141,Securities And Finance Dealer/Broker
+401,24142,Foreign Exchange Dealer/Broker
+402,24143,Financial Derivatives Dealer/Broker
+403,24144,Commodities Derivatives Broker
+404,24149,Other Finance Dealers And Brokers
+405,2415,Insurance Underwriters
+406,24150,Insurance Underwriter
+407,242,Administration Professionals
+408,2421,Management And Business Consultants
+409,24211,Management Consultant
+410,24212,Business Consultant
+411,2422,Policy Administration Professionals
+412,24220,Policy Administration Professional (Eg Policy Analyst)
+413,2423,Human Resource Professionals
+414,24231,Human Resource Consultant (Excluding Executive Search Consultant)
+415,24232,Executive Search Consultant
+416,2429,Other Administration Professionals Not Elsewhere Classified
+417,24291,Research Officer (Non-Statistical)
+418,24299,Other Administration Professionals N.E.C.
+419,243,Marketing And Public Relations Professionals
+420,2431,Advertising And Marketing Professionals
+421,24311,Creative Director (Advertising)
+422,24312,Market Research Analyst
+423,2432,Public Relations Professionals
+424,24320,Public Relations/Corporate Communications Professional
+425,2433,Specialised Goods Sales Professionals
+426,24331,Technical Sales Professionals
+427,24332,Medical And Pharmaceutical Products Sales Professionals
+428,24333,Ict Sales Professionals
+429,24334,Sales Professionals (Institutional Sales Of Financial Products)
+430,24339,Other Specialised Goods Sales Professionals
+431,2434,Trade And Ship Brokers
+432,24341,Trade Broker (Including Oil And Bunker Trader)
+433,24342,Ship Broker
+434,24343,Ship Charterer
+435,25,Information And Communications Technology Professionals
+436,251,Software And Applications Developers And Analysts
+437,2511,Systems Analysts
+438,25111,Systems Designer/Analyst
+439,25112,It Business Process Consultant/Business Analyst
+440,25113,Enterprise/Solution Architect
+441,2512,"Software, Web And Multimedia Developers"
+442,25121,Software Developer
+443,25122,Web And Mobile Applications Developer
+444,25123,Multimedia (Including Computer Games) Developer
+445,2514,Applications And Systems Programmers
+446,25140,Applications/Systems Programmer
+447,2515,Information Technology Testing And Quality Assurance Professionals
+448,25151,Information Technology Testing/Quality Assurance Specialist
+449,25152,Information Technology Auditor
+450,2516,Information Technology Project Managers
+451,25160,Information Technology Project Manager
+452,2519,Software And Applications Developers And Analysts Not Elsewhere Classified
+453,25190,Software And Applications Developer And Analyst N.E.C.
+454,252,"Database, Network And Infrastructure Professionals"
+455,2521,Database Designers And Administrators
+456,25211,Database Administrator
+457,25212,Database Architect
+458,2522,"Network, Servers And Computer Systems Administrators"
+459,25220,"Network, Servers And Computer Systems Administrator"
+460,2523,Computer Network And Infrastructure Professionals
+461,25230,"Network/Infrastructure Architect, Engineer And Specialist"
+462,2524,Information Technology Security Specialists
+463,25240,Information Technology Security Specialist
+464,2529,Database And Network Professionals Not Elsewhere Classified
+465,25291,Data Scientist
+466,25299,Database And Network Professional N.E.C.
+467,26,"Legal, Social And Cultural Professionals"
+468,261,Legal Professionals
+469,2611,Lawyers
+470,26111,Advocate/Solicitor (Practising)
+471,26112,"In-House Legal Counsel (Except Judiciary, Ministries And Statutory Boards)"
+472,26119,"Other Lawyers (Eg Prosecutors, Legal Counsel In Ministries And Statutory Boards)"
+473,2612,Judges
+474,26120,Judge (Including Registrar In Judiciary)
+475,262,"Librarians, Archivists And Curators"
+476,2621,"Archivists, Curators And Conservators"
+477,26211,Archivist
+478,26212,Curator (Art Gallery And Museum)
+479,26213,Conservator (Art Works)
+480,2622,Librarians And Related Information Professionals
+481,26221,Librarian
+482,26229,Other Information Professionals
+483,263,Social Science Professionals
+484,2631,Economists
+485,26310,Economist
+486,2632,"Sociologists, Anthropologists And Related Professionals"
+487,26321,Sociologist
+488,26322,Anthropologist
+489,26323,Social Research Analyst
+490,2633,"Historians, Political Scientists And Other Social Science Professionals"
+491,26331,Historian
+492,26332,Political Scientist
+493,26339,Other Social Science Professionals (Eg Philosopher)
+494,2634,Psychologists
+495,26340,Psychologist
+496,2635,Social Work And Counselling Professionals
+497,26351,Social Worker (General)
+498,26352,Social Worker (Delinquency)
+499,26353,Medical Social Worker
+500,26354,Counsellor (Rehabilitation)
+501,26355,Counsellor (Drugs And Alcohol)
+502,26356,Counsellor (Family)
+503,26357,School Counsellor
+504,26359,Other Social Work And Counselling Professionals
+505,264,"Authors, Journalists And Editors"
+506,2641,Authors And Related Writers
+507,26411,Author
+508,26412,Script Writer
+509,26413,Advertising Copywriter
+510,26414,Technical Writer
+511,26415,Continuity And Script Editor
+512,26416,Book Editor
+513,26419,Other Authors And Related Writers
+514,2642,Journalists
+515,26421,Journalist
+516,26422,Editor (News And Periodicals)
+517,2643,"Translators, Interpreters And Other Linguists"
+518,26431,Translator
+519,26432,Interpreter
+520,265,Creative And Performing Artists
+521,2651,Visual Artists
+522,26511,Sculptor
+523,26512,Painter
+524,26513,Cartoonist
+525,26519,Other Visual Artists
+526,2652,"Musicians, Composers And Singers"
+527,26521,Instrumentalist
+528,26522,Composer/Orchestrator
+529,26523,Conductor/Director Of Orchestra/Band/Choir
+530,26524,Singer
+531,26529,"Other Musicians, Composers And Singers"
+532,2653,Dancers And Choreographers
+533,26531,Dancer
+534,26532,Choreographer
+535,2654,"Film, Stage And Related Directors And Producers"
+536,26541,"Producer (Stage, Film, Television, Computer Games, Video And Radio)"
+537,26542,"Director (Stage, Film, Television And Radio)"
+538,26543,"Artistic Director (Stage, Film, Television And Radio)"
+539,26544,Producer/Director Of Commercials
+540,26545,"Editor (Radio, Television And Video)"
+541,26549,"Other Film, Stage And Related Directors And Producers"
+542,2655,Actors
+543,26550,Actor
+544,2656,Radio And Television Presenters And Related Professionals
+545,26561,Radio Presenter
+546,26562,Television Presenter
+547,26563,Dubbing Artiste
+548,26569,Other Radio And Television Presenters And Related Professionals
+549,29,Other Professionals Not Elsewhere Classified
+550,290,Other Professionals Not Elsewhere Classified
+551,2901,Religious Professionals
+552,29011,Minister Of Religion
+553,29019,Other Religious Professionals
+554,2909,Other Professionals Not Elsewhere Classified
+555,29090,"Other Professionals N.E.C. (Eg Patent Agent, Trademark Agent, Intellectual Property Strategist)"
+556,3,Associate Professionals And Technicians
+557,31,Physical And Engineering Science Associate Professionals
+558,310,Assistant Engineers
+559,3100,Assistant Engineers
+560,31001,Assistant Civil And Structural Engineer
+561,31002,Assistant Electrical Engineer
+562,31003,Assistant Electronics Engineer
+563,31004,Assistant Mechanical Engineer
+564,31005,Assistant Chemical Engineer
+565,31006,Assistant Manufacturing Engineer
+566,31009,Other Assistant Engineers
+567,311,Physical And Engineering Science Technicians
+568,3111,Chemical And Physical Science Technicians
+569,31111,Chemistry Technician
+570,31112,Physics Technician
+571,31119,Other Chemical And Physical Science Technicians
+572,3112,Civil Engineering Technicians
+573,31121,Civil Engineering Technician
+574,31122,Structural Engineering Technician
+575,31123,Building Technician
+576,31124,Land Surveying Technician
+577,31125,Resident Technical Officer
+578,31129,Other Civil Engineering And Related Technicians
+579,3113,Electrical Engineering Technicians
+580,31131,Electrical Engineering Technician (General)
+581,31132,Electrical Engineering Technician (High Voltage)
+582,31139,Other Electrical Engineering Technicians
+583,3114,Electronics Engineering Technicians
+584,31141,Electronics Engineering Technician (General)
+585,31142,Semi-Conductor Technician
+586,31143,Audio And Video Equipment Technician
+587,31144,Instrumentation Technician
+588,31149,Other Electronics Engineering Technicians
+589,3115,Mechanical Engineering Technicians
+590,31151,Mechanical Engineering Technician (General)
+591,31152,Aeronautical Engineering Technician
+592,31153,Automotive Engineering Technician
+593,31154,Air-Conditioning/Refrigeration Engineering Technician
+594,31155,Machining/Tooling Technician
+595,31156,Tool/Mould Designer
+596,31157,Marine Surveyor (Ship And Nautical)
+597,31158,Airworthiness Surveyor
+598,31159,Other Mechanical Engineering Technicians
+599,3116,Chemical Engineering Technicians
+600,31161,Chemical Engineering Technician (General)
+601,31162,Chemical Engineering Technician (Petroleum And Natural Gas)
+602,31163,Chemical Engineering Technician (Petrochemicals)
+603,31169,Other Chemical Engineering Technicians
+604,3117,Manufacturing Engineering Technicians
+605,31171,Manufacturing Engineering Technician (General)
+606,31172,Production Engineering Technician
+607,31173,Automation Designer
+608,31174,Automation Technician
+609,31175,Quality Assurance Technician
+610,31179,Other Manufacturing Engineering Technicians
+611,3118,Draughtsmen
+612,31181,Draughtsman (General)
+613,31182,Mechanical Draughtsman
+614,31183,Electrical/Electronics Draughtsman
+615,31184,Civil/Structural Engineering Draughtsman
+616,31185,Architectural Draughtsman
+617,31186,Marine Draughtsman
+618,31189,Other Draughtsmen (Eg Cartographical Draughtsman)
+619,3119,Physical And Engineering Science Technicians Not Elsewhere Classified
+620,31191,Mechatronics Technician
+621,31192,Refining/Smelting Technician
+622,31193,Physical Metallurgy Technician
+623,31194,Petroleum And Natural Gas Extraction Technician
+624,31195,Electronic Pre-Press Technician
+625,31196,Precision Optics Technician
+626,31197,Quantity Surveying Technician
+627,31199,Other Physical And Engineering Science Technicians N.E.C.
+628,314,Life Science Technicians And Related Associate Professionals
+629,3141,Life Science Technicians (Except Medical)
+630,31411,Biological Technician
+631,31412,Food Science Technician
+632,31413,Clinical Research Coordinator
+633,31419,Other Life Science Technicians
+634,3142,"Agronomy, Horticultural And Farming Technicians"
+635,31421,Horticultural Technician (Including Irrigation Specialist)
+636,31422,Plant Tissue Culture Technician
+637,31423,Farming Technician (Animal Production)
+638,31429,"Other Agronomy, Horticultural And Farming Related Technicians"
+639,315,Ship And Aircraft Controllers And Technicians
+640,3151,Ship Engineering Officers
+641,31510,Marine Engineering Officer
+642,3152,Ships' Deck Officers And Pilots
+643,31521,"Ship'S Navigating Officer (Including Chief, Second And Third Officer)"
+644,31522,Ship Pilot
+645,31529,Other Ships' Deck Officers And Pilots
+646,3154,Air Traffic Controllers
+647,31540,Air Traffic Controller
+648,3156,Sea Traffic Controllers
+649,31560,Sea Traffic Controller
+650,3157,Transport Operations Supervisors
+651,31571,Air Transport Service Supervisor
+652,31572,Mrt Service Supervisor
+653,31573,Road Transport Supervisor
+654,31574,Port/Shipping Operations Supervisor
+655,31579,Other Transport Operations Supervisors
+656,3159,Transport Controllers And Related Workers Not Elsewhere Classified
+657,31591,Port Master/Dockmaster
+658,31592,Port Captain
+659,31593,Flight Operations Officer
+660,31594,Air Cargo Officer
+661,31595,Load-Sheet Officer (Aircraft)
+662,31596,Mrt Operations Officer
+663,31599,Other Transport Controllers And Related Workers N.E.C.
+664,316,Premises And Parks Officers
+665,3160,Premises And Parks Officers
+666,31601,Premises And Facilities Maintenance Officer
+667,31602,Landscape Operations Officer
+668,31603,Parks Officer
+669,317,"Building, Quality And Safety Inspectors"
+670,3171,Building And Fire Inspectors
+671,31711,Fire And Safety Inspector
+672,31719,Other Building And Fire Inspectors
+673,3172,Quality And Safety Inspectors
+674,31720,"Safety Inspector (Vehicles, Processes And Products)"
+675,32,Health Associate Professionals
+676,321,Medical And Pharmaceutical Technicians
+677,3211,Medical Imaging And Therapeutic Equipment Technicians
+678,32111,Sonographer
+679,32112,Medical X-Ray Technician
+680,32119,"Other Medical Imaging, Therapeutic Equipment Technicians And Related Associate Professionals"
+681,3212,Medical And Pathology Laboratory Technicians
+682,32120,Medical And Pathology Laboratory Technician
+683,3213,Pharmacy Technicians
+684,32130,Pharmacy Technician
+685,3214,Medical And Dental Prosthetic Technicians
+686,32141,Prostheist/Orthopaedic Technician
+687,32142,Orthotist/Orthopaedic Appliance Maker And Repairer
+688,32143,Dental Technician
+689,322,Nursing Associate Professionals
+690,3220,Nursing Associate Professionals
+691,32200,Enrolled/Assistant Nurse (Excluding Registered Nurse)
+692,323,Traditional And Complementary Medicine Associate Professionals
+693,3230,Traditional And Complementary Medicine Associate Professionals
+694,32300,Traditional And Complementary Medicine Associate Professional (Eg Homeopath And Naturopath)
+695,324,Veterinary Technicians And Assistants
+696,3240,Veterinary Technicians And Assistants
+697,32400,Veterinary Technician/Assistant
+698,325,Other Health Associate Professionals
+699,3251,Dental Assistants And Therapists
+700,32511,Dental Assistant
+701,32512,Oral Health Therapist (Eg Dental Therapists And Dental Hygienists)
+702,3253,Community Health Workers
+703,32530,Community Health Worker
+704,3254,Opticians
+705,32540,Optician
+706,3255,Physiotherapy Technicians And Related Associate Professionals
+707,32551,Massage Therapist
+708,32559,Other Physiotherapy Technicians And Related Associated Professionals
+709,3257,Environmental And Occupational Health Inspectors
+710,32571,Environmental Inspector (Environmental Public Health)
+711,32572,Occupational Health Inspector
+712,3259,Health Associate Professionals Not Elsewhere Classified
+713,32591,Paramedic
+714,32599,Other Health Associate Professionals N.E.C.
+715,33,Business And Administration Associate Professionals
+716,331,Financial And Mathematical Associate Professionals
+717,3312,Credit And Loans Officers
+718,33120,Credit And Loans Officer
+719,3313,Accounting Associate Professionals
+720,33130,"Accounting Associate Professional (Eg Assistant Accountant, Audit (Accounting) Executive)"
+721,3315,Valuers And Loss Assessors
+722,33151,Appraiser/Valuer (Excluding Intangible Asset Valuer)
+723,33152,Assessor
+724,33153,Intangible Asset Valuer (Eg Intellectual Property Valuation Analyst)
+725,332,Sales And Related Associate Professionals
+726,3321,Insurance Representatives And Related Associate Professionals
+727,33211,Insurance Sales Agent/Broker (Including Independent Financial Planner)
+728,33219,Other Insurance Representatives And Related Associate Professionals
+729,3322,Commercial And Marketing Sales Executives
+730,33221,Business Development Executive
+731,33222,After Sales Adviser/Client Account Service Executive
+732,33223,Marketing And Sales Executive (Food & Beverage Services)
+733,33229,Other Commercial And Marketing Sales Executives
+734,3323,Buyers And Purchasing Agents
+735,33231,Buyer
+736,33232,Purchasing Agent
+737,3329,Sales And Related Associate Professionals Not Elsewhere Classified
+738,33291,Intellectual Property Brokers And Transaction Specialists
+739,33299,Sales And Related Associate Professional N.E.C.
+740,333,Business Services Agents
+741,3331,"Shipping, Clearing And Forwarding Agents"
+742,33311,Clearing And Forwarding Agent
+743,33312,Ship Agent
+744,3332,Conference And Event Planners
+745,33320,Exhibition/Conference/Event Planner (Including Wedding Planner/Coordinator)
+746,3333,Employment Agents And Labour Contractors
+747,33330,Employment Agent/Labour Contractor
+748,3334,Real Estate Agents
+749,33340,Real Estate Agent
+750,3339,Business Services Agents Not Elsewhere Classified
+751,33391,Auctioneer
+752,33392,Advertising Salesman
+753,33393,International Market Agent/Representative (Eg Junket Operator)
+754,33399,"Other Business Services Agents N.E.C. (Eg Sports Agent, Artiste Agent)"
+755,334,Administrative Associate Professionals
+756,3345,Human Resource Associate Professionals
+757,33451,Personnel/Human Resource Officer
+758,33452,Industrial Relations Officer
+759,33453,Training Officer
+760,33454,Crewing Executive (Ship)
+761,3349,Administrative And Related Associate Professionals Not Elsewhere Classified
+762,33491,Management Executive
+763,33492,Operations Officer (Except Transport Operations)
+764,33499,Other Administrative And Related Associate Professionals N.E.C. (Eg Career Consultant/Advisor/Coach)
+765,335,Government Associate Professionals
+766,3351,Customs And Immigration Officers
+767,33510,Customs/Immigration Officer
+768,3355,Police Inspectors
+769,33550,Police Inspector
+770,3359,Government Associate Professionals Not Elsewhere Classified
+771,33591,Government Tax And Excise Official
+772,33592,Government Social Benefits Official
+773,33593,Government Licensing Official
+774,33599,Other Government Associate Professionals N.E.C.
+775,34,"Legal, Social, Cultural And Related Associate Professionals"
+776,341,Legal And Social Associate Professionals
+777,3411,Legal Associate Professionals
+778,34110,Legal Associate Professional (Eg Paralegal)
+779,3412,Social Work Associate Professionals
+780,34121,Youth Worker
+781,34129,Other Social Work Associate Professionals
+782,342,Sports And Fitness Workers
+783,3421,Athletes And Sportsmen
+784,34210,Athlete/Sportsman
+785,3422,"Sports Coaches, Instructors, Officials And Other Related Associate Professionals"
+786,34221,Sports Coach
+787,34222,Martial Arts Instructor
+788,34223,Physical Fitness Instructor (Including Yoga Instructor And Aerobics Instructor)
+789,34224,Sports Official
+790,34229,Other Related Instructors And Associate Professionals (Eg Adventure Training Instructor And Scuba Diving Instructor)
+791,343,Artistic And Cultural Associate Professionals
+792,3431,Photographers
+793,34310,Photographer
+794,3432,Interior Designers And Decorators
+795,34321,Interior Designer
+796,34322,Landscape Designer
+797,34323,Display Artist
+798,34324,Decorator And Related Worker (Eg Window Dresser And Set Designer)
+799,3433,"Gallery, Museum And Library Technicians"
+800,34331,Library Officer
+801,34332,"Gallery, Museum And Related Technician"
+802,3434,Chefs
+803,34340,Chef
+804,3439,Artistic And Cultural Associate Professionals Not Elsewhere Classified
+805,34391,Tattooist
+806,34399,Other Artistic And Cultural Associate Professionals N.E.C.
+807,344,Creative And Performing Arts Associate Professionals
+808,3440,Creative And Performing Arts Associate Professionals
+809,34401,Clown
+810,34402,Magician
+811,34403,Acrobat
+812,34404,Aerialist
+813,34405,Disc Jockey
+814,34409,Other Creative And Performing Arts Associate Professionals
+815,35,Information And Communications Technicians
+816,351,Information And Communications Technology Operators And Technicians
+817,3511,Computer Systems Operators
+818,35110,Computer Systems Operator
+819,3512,Computer Technicians
+820,35120,Computer Technician (Including It User Helpdesk Technician)
+821,3514,Website Administrators
+822,35140,Website Administrator/Webmaster
+823,352,Telecommunications And Broadcasting Technicians And Audio-Visual Operators
+824,3521,Broadcasting Technicians And Audio-Visual Operators
+825,35211,Broadcasting Operations Technician
+826,35212,Video Camera Operator
+827,35213,Television/Motion Picture Camera Operator
+828,35214,Radio And Television Studio Equipment Operator
+829,35215,Sound Recording Equipment Operator
+830,35216,Cinema Projectionist
+831,35219,Other Broadcasting Technicians And Audio-Visual Operators (Eg Microphone Operator)
+832,3522,Telecommunications Engineering Technicians
+833,35220,Telecommunications Technician
+834,3523,Telecommunications Equipment Operators
+835,35231,Telecommunications Service Supervisor
+836,35232,Radio-Telephone Operator (Land-Based)
+837,35233,Ship'S Radio Officer
+838,35234,Flight Radio Operator
+839,35239,Other Telecommunications Equipment Operators
+840,3529,Optical And Electronic Equipment Operators Not Elsewhere Classified
+841,35290,Optical And Electronic Equipment Operator N.E.C.
+842,36,Teaching Associate Professionals
+843,361,Pre-Primary Education Teachers
+844,3610,Pre-Primary Education Teachers
+845,36100,Pre-Primary Education Teacher
+846,362,Extracurriculum Instructors
+847,3620,Extracurriculum Instructors
+848,36201,Language Instructor (Extracurriculum)
+849,36202,Art And Craft Instructor (Extracurriculum)
+850,36203,Information Technology Trainer (Extracurriculum)
+851,36204,Music Instructor (Extracurriculum)
+852,36205,Dance Instructor (Extracurriculum)
+853,36206,Speech And Drama Instructor (Extracurriculum)
+854,36209,Other Extracurriculum Instructors
+855,369,Teaching Associate Professionals Not Elsewhere Classified
+856,3691,Private Tutors
+857,36910,Private Tutor (Academic)
+858,3699,Teaching Associate Professionals Not Elsewhere Classified
+859,36991,Relief Teacher
+860,36999,Other Teaching Associate Professionals N.E.C.
+861,39,Other Associate Professionals Not Elsewhere Classified
+862,399,Other Associate Professionals Not Elsewhere Classified
+863,3991,Religious Associate Professionals
+864,39910,Non-Ordained Religious Associate Professional
+865,3999,Other Associate Professionals Not Elsewhere Classified
+866,39990,Other Associate Professionals N.E.C.
+867,4,Clerical Support Workers
+868,40,Clerical Supervisors
+869,400,Clerical Supervisors
+870,4000,Clerical Supervisors
+871,40000,Clerical Supervisor
+872,41,General And Keyboard Clerks
+873,411,General Office Clerks
+874,4110,General Office Clerks
+875,41101,Office Clerk (General)
+876,41102,Filing And Copying Clerk
+877,41103,Personnel/Human Resource Clerk
+878,41109,Other Administrative Clerks (Eg Public Relations Clerk)
+879,412,Secretaries And Verbatim Reporters
+880,4120,Secretaries And Verbatim Reporters
+881,41201,Secretary
+882,41202,Verbatim Reporter
+883,413,Keyboard Operators
+884,4131,Typists And Word Processing Operators
+885,41311,Stenographer
+886,41312,Typist
+887,41319,Other Word Processors And Related Operators
+888,4132,Data Entry Clerks
+889,41320,Data Entry Clerk
+890,42,Customer Services Officers And Clerks
+891,421,"Tellers, Money Collectors And Related Clerks"
+892,4211,Bank Tellers And Other Counter Clerks
+893,42111,Bank Teller
+894,42112,Postal Service Counter Clerk
+895,42113,Money Changer
+896,42119,Other Tellers And Counter Clerks
+897,4213,Pawnbrokers And Moneylenders
+898,42131,Pawnbroker
+899,42132,Moneylender
+900,4214,Bill Collectors And Related Workers
+901,42141,Bill Collector
+902,42149,Other Bill Collectors And Related Workers
+903,422,Client Information Clerks
+904,4221,Travel Agency And Related Clerks
+905,42210,Travel Agency/Service Clerk
+906,4223,Telephone Operators
+907,42230,Telephone Operator
+908,4224,"Receptionists, Customer Service And Information Clerks"
+909,42241,Receptionist (General)
+910,42242,Hotel Receptionist
+911,42243,Medical/Dental Receptionist
+912,42244,Airport Receptionist/Clerk
+913,42245,Customer Service Officer/Clerk
+914,42246,Contact Centre Information Clerk
+915,42249,Other Receptionists And Information Clerks
+916,4229,Client Information Clerks Not Elsewhere Classified
+917,42290,Client Information Clerk N.E.C.
+918,43,Numerical And Material-Recording Clerks
+919,431,Numerical Clerks
+920,4311,Accounting And Bookkeeping Clerks
+921,43111,Bookkeeper
+922,43112,Ledger And Accounts Clerk
+923,43113,Audit Clerk
+924,43114,Payroll/Wages Clerk
+925,43115,Billing Clerk
+926,43116,Purchasing Clerk
+927,43119,Other Accounting Clerks (Eg Cost Clerk)
+928,4312,Finance And Insurance Clerks
+929,43121,Bank Operations Clerk
+930,43122,Insurance/Underwriting Clerk
+931,43123,Securities Clerk
+932,43129,Other Finance And Insurance Clerks (Eg Credit Clerk)
+933,4314,Statistical Clerks
+934,43141,Statistical Clerk (General)
+935,43142,Enumerator/Market Research Interviewer
+936,43149,Other Statistical Clerks
+937,4315,Computer Operations Clerks
+938,43151,Data Processing Control Clerk
+939,43159,Other Computer Operations Clerks
+940,432,Material-Recording And Transport Clerks
+941,4321,Stock Clerks
+942,43211,Stock Records Clerk
+943,43212,Storekeeper
+944,43219,Other Stock Clerks
+945,4322,Production Clerks
+946,43221,Material Planning Clerk
+947,43222,Production Planning Clerk
+948,43229,Other Production Clerks
+949,4323,Transport Clerks
+950,43231,Shipping Clerk
+951,43232,Land Transport Clerk
+952,43233,Air Transport Clerk
+953,43239,Other Transport Clerks
+954,44,Other Clerical Support Workers
+955,441,Other Clerical Support Workers
+956,4411,Library Clerks
+957,44110,Library Clerk
+958,4417,Legal Clerks
+959,44170,Legal Clerk
+960,4419,Clerical Support Workers Not Elsewhere Classified
+961,44191,Proofreading Clerk
+962,44199,Other Clerical Support Workers N.E.C.
+963,5,Service And Sales Workers
+964,51,Personal Service Workers
+965,511,"Travel Attendants, Conductors And Guides"
+966,5111,Travel Attendants And Stewards
+967,51111,Chief Steward (Ship)
+968,51112,Cabin Attendant/Steward
+969,5112,Transport Service Inspectors And Related Workers
+970,51121,Rail Station Service Assistant
+971,51122,Ticket Inspector
+972,51129,Other Transport Service Inspectors And Related Workers
+973,5113,Tour And Other Guides
+974,51131,Tour Guide
+975,51132,"Nature Guide (Including Zoo, Birdpark And Aquarium)"
+976,51133,Theme Park Guide
+977,51139,"Other Guides (Eg Museum, Historical Sites)"
+978,512,Cooks
+979,5120,Cooks
+980,51200,Cook
+981,513,Waiters And Bartenders
+982,5131,Waiters
+983,51311,Captain Waiter/Waiter Supervisor
+984,51312,Waiter
+985,5132,Bartenders And Baristas
+986,51321,Bartender/Mixologist
+987,51322,Barista
+988,5133,Bar/Lounge Hostesses
+989,51330,Bar/Lounge Hostess
+990,5139,Waiters And Bartenders Not Elsewhere Classified
+991,51390,Waiter And Bartender N.E.C. (Eg Food Checker (Catering Services))
+992,514,"Hairdressers, Beauticians And Related Workers"
+993,5141,"Hairdressers, Barbers And Other Related Workers"
+994,51411,Hair Stylist/Hairdresser
+995,51412,Barber
+996,51419,Other Hair Care Workers (Eg Hair Therapist/Consultant)
+997,5142,Beauticians And Related Workers
+998,51421,Beautician
+999,51422,Manicurist
+1000,51423,"Make-Up Artist (Stage, Film And Studio)"
+1001,5149,Wellness Related Workers Not Elsewhere Classified
+1002,51491,Masseur (Non-Medical) (Including Foot Reflexologist)
+1003,51492,Slimming Consultant
+1004,51499,Other Wellness Related Workers N.E.C.
+1005,515,Housekeepers And Related Workers
+1006,5150,Housekeepers And Related Workers
+1007,51501,Housekeeper (Hotels And Other Establishments)
+1008,51502,House Steward
+1009,51503,Housekeeping Matron
+1010,51509,Other Housekeepers And Related Workers (Eg Personal Butler)
+1011,516,Mail Carriers And Sorting Workers
+1012,5160,Mail Carriers And Sorting Workers
+1013,51601,Postal/Courier Service Supervisor
+1014,51602,Postman
+1015,51603,Process Server
+1016,51604,Despatch Worker
+1017,51609,Other Mail Distribution Workers (Eg Mail Sorter)
+1018,517,"Bookmakers, Croupiers And Related Gaming Workers"
+1019,5170,"Bookmakers, Croupiers And Related Gaming Workers"
+1020,51701,"Gaming Supervisor (Eg Pit Manager/Supervisor, Slot Manager/Supervisor And Casino Shift Manager/Supervisor)"
+1021,51702,Bookmaker/Croupier/Casino Dealer And Related Gaming Worker
+1022,519,Personal Service Workers Not Elsewhere Classified
+1023,5191,"Astrologers, Fortune-Tellers And Related Workers"
+1024,51910,Astrologer/Fortune Teller And Related Worker
+1025,5193,Undertakers And Embalmers
+1026,51931,Undertaker
+1027,51932,Embalmer
+1028,5194,"Pet Groomers, Animal Keepers And Trainers"
+1029,51941,Pet Groomer
+1030,51942,"Keeper/Trainer In Zoological, Bird And Aquatic Parks"
+1031,51943,Keeper/Trainer In Crocodile Farm
+1032,51944,Horse Trainer
+1033,51945,Dog Trainer
+1034,51949,Other Animal/Bird Keepers And Animal Care Workers
+1035,5195,Driving Instructors
+1036,51950,Driving Instructor/Tester
+1037,5199,Personal Service Workers Not Elsewhere Classified
+1038,51991,Social Escort
+1039,51999,Other Personal Service Workers N.E.C.
+1040,52,Sales Workers
+1041,521,Stall Sales Workers
+1042,5211,Hawker/Stall Holders (Excluding Prepared Food Or Drinks)
+1043,52110,Hawker/Stall Holder (Excluding Prepared Food Or Drinks)
+1044,5212,Hawker/Stall Holders (Prepared Food Or Drinks)
+1045,52120,Hawker/Stall Holder (Prepared Food Or Drinks)
+1046,5213,Newsvendors
+1047,52130,Newsvendor
+1048,5219,Other Stall Sales Workers
+1049,52190,Other Stall Sales Workers
+1050,522,Shop Salespersons
+1051,5220,Shop And Store Salespersons
+1052,52201,Sales Supervisor
+1053,52202,Shop Sales Assistant
+1054,523,Cashiers And Ticket Clerks
+1055,5230,Cashiers And Ticket Clerks
+1056,52301,Cage/Count Supervisor
+1057,52302,Cashier (General)
+1058,52303,Office Cashier
+1059,52309,"Other Cashiers, Ticket And Related Clerks"
+1060,524,"Models, Sales Demonstrators And Other Sales Workers"
+1061,5241,Fashion And Other Models
+1062,52411,Fashion Model
+1063,52419,Other Models (Eg Artist'S Model)
+1064,5242,Sales Demonstrators And Door-To-Door Salespersons
+1065,52421,Sales Demonstrator
+1066,52422,Salesperson (Door-To-Door)
+1067,5244,Contact Centre Salespersons
+1068,52440,Telemarketer
+1069,5249,Sales Workers Not Elsewhere Classified
+1070,52491,Petrol Station Attendant
+1071,52492,Food Service Counter Attendant
+1072,52499,Sales Worker N.E.C. (Eg Ship Chandler)
+1073,53,Personal Care Workers
+1074,531,Child Care Workers And Teachers' Aides
+1075,5311,Child Care And Related Workers
+1076,53111,Babysitter (Household)
+1077,53112,Confinement Nanny
+1078,53113,Child /After School Care Centre Worker
+1079,53114,Child/Youth Residential Care Assistant
+1080,5312,Teachers' Aides
+1081,53120,Teachers' Aide
+1082,532,Healthcare Assistants And Other Personal Care Workers
+1083,5320,Healthcare Assistants And Other Personal Care Workers
+1084,53201,Healthcare Assistant (Eg Therapy Aide/Assistant)
+1085,53209,Other Personal Care Worker (Eg Old Folks Home)
+1086,54,Protective Services Workers
+1087,541,Protective Services Workers
+1088,5411,Fire-Fighting And Rescue Officers
+1089,54110,Fire-Fighting And Rescue Officer
+1090,5412,Police Officers
+1091,54121,Police Officer
+1092,54122,Narcotics Officer
+1093,54123,Auxiliary Police Officer
+1094,5413,Prison Officers
+1095,54130,Prison Officer
+1096,5414,Security Guards
+1097,54141,Security Supervisor
+1098,54142,Private Security Officer
+1099,5415,Lifeguards
+1100,54150,Lifeguard
+1101,5419,Protective Services And Related Workers Not Elsewhere Classified
+1102,54191,Private Investigator
+1103,54192,Industrial Investigator
+1104,54193,Insurance Investigator
+1105,54194,Park Ranger
+1106,54199,Other Protective Services And Related Workers N.E.C.
+1107,59,Service Workers Not Elsewhere Classified
+1108,590,Service Workers Not Elsewhere Classified
+1109,5900,Service Workers Not Elsewhere Classified
+1110,59000,Service Workers N.E.C.
+1111,6,Agricultural And Fishery Workers
+1112,61,Agricultural Workers
+1113,611,Market Gardeners And Crop Growers
+1114,6111,Vegetable Farm Workers
+1115,61111,Hydroponics Farm Worker
+1116,61112,Mushroom Farm Worker
+1117,61119,Other Vegetable Farm Workers
+1118,6113,"Gardeners, Horticultural And Nursery Farm Workers"
+1119,61131,Flower/Orchid Farm Worker
+1120,61132,Nursery Worker (Eg Nursery Technician)
+1121,61133,Gardeners And Horticultural Workers (Eg Landscape Technician)
+1122,61134,Nursery Supervisor
+1123,61139,Other Horticultural And Nursery Farm Workers
+1124,612,Animal Producers
+1125,6121,Livestock And Dairy Farm Workers
+1126,61210,Livestock/Dairy Farm Worker
+1127,6122,Poultry Farm Workers
+1128,61221,Poultry Farm Worker (General)
+1129,61222,Poultry Hatchery Worker
+1130,61223,Poultry Inseminator
+1131,61229,Other Poultry Farm Workers (Eg Poultry Vaccinator)
+1132,619,Agricultural Workers Not Elsewhere Classified
+1133,6190,Agricultural Workers Not Elsewhere Classified
+1134,61900,Agricultural Worker N.E.C.
+1135,62,Fishery Workers
+1136,622,Fishery Workers
+1137,6221,Aquaculture Workers
+1138,62211,Fish/Prawn Farm Worker
+1139,62212,Aquarium Fish Farm Worker
+1140,62213,Crocodile Farm Worker
+1141,62219,Other Aquatic Life Cultivation Workers (Eg Oyster Farm Worker)
+1142,6222,Coastal Waters And Deep Sea Fishery Workers
+1143,62220,Coastal Waters/Deep Sea Fishery Worker
+1144,7,Craftsmen And Related Trades Workers
+1145,71,"Building And Related Trades Workers, Excluding Electricians"
+1146,710,Supervisors And General Foremen (Building And Related Trades)
+1147,7100,Supervisors And General Foremen (Building And Related Trades)
+1148,71000,Supervisor/General Foreman (Building And Related Trades)
+1149,711,Building Frame And Related Trades Workers
+1150,7112,Bricklayers And Related Workers
+1151,71120,Bricklayer/Blocklayer
+1152,7113,"Stone Cutters, Splitters, Carvers And Stonemasons"
+1153,71131,Stone Cutter/Carver
+1154,71132,Stonemason
+1155,7114,"Concrete Placers, Concrete Finishers And Related Workers"
+1156,71141,Reinforced Concreter (General)
+1157,71142,Concrete Form Worker
+1158,71143,Cement Finisher/Screeder
+1159,71144,Cementer (Petroleum And Gas Wells)
+1160,71149,"Other Concrete Placers, Concrete Finishers And Related Workers"
+1161,7115,Carpenters And Joiners
+1162,71151,Carpenter
+1163,71152,Joiner
+1164,7119,Building Frame And Related Trades Workers Not Elsewhere Classified
+1165,71191,Scaffolder
+1166,71192,Demolition Worker
+1167,71193,Cladding/Curtain Wall Erector
+1168,71199,Other Building Frame And Related Trades Workers N.E.C. (Eg Steeplejack)
+1169,712,Building Finishers And Related Trades Workers
+1170,7121,Roofers
+1171,71210,Roofer
+1172,7122,Floor Layers And Tile Setters
+1173,71220,Floor/Wall Tiler
+1174,7123,Plasterers
+1175,71230,Plasterer
+1176,7124,Insulation Workers
+1177,71241,Building Insulator
+1178,71242,Boiler/Pipe Insulator
+1179,71243,Refrigeration/Air-Conditioning Equipment Insulator
+1180,71244,Refractory Worker
+1181,71249,Other Insulation Workers
+1182,7125,Glaziers
+1183,71250,Glazier
+1184,7126,"Plumbers, Pipe Fitters And Related Workers"
+1185,71261,Plumber
+1186,71262,Pipe Fitter
+1187,71263,Pipe/Drain Layer
+1188,7127,Air-Conditioning And Refrigeration Mechanics
+1189,71271,Air-Conditioning/Refrigeration Equipment Mechanics
+1190,71272,Air-Conditioning/Refrigeration Plant Installer
+1191,7129,Building Finishers And Related Trades Workers Not Elsewhere Classified
+1192,71290,Building Finisher And Related Trades Worker N.E.C.
+1193,713,"Painters, Building Structure Cleaners And Related Workers"
+1194,7131,Building Painters And Related Workers
+1195,71311,Building Painter
+1196,71312,Wall/Ceiling Paperhanger
+1197,7132,"Spray Painters, Varnishers And Other Painters"
+1198,71321,Structural Steel/Ship Painter
+1199,71322,Motor Vehicle Spray Painter
+1200,71323,Sign Painter
+1201,71324,"Spray Painter (Except Ships, Motor Vehicles And Signs)"
+1202,71329,Other Painters And Related Workers
+1203,7133,"Building Maintenance Workers, Building Structure Cleaners And Related Workers"
+1204,71331,Building Maintenance Worker
+1205,71332,Building Structure Cleaner And Related Worker
+1206,72,"Metal, Machinery And Related Trades Workers"
+1207,720,"Supervisors And General Foremen (Metal, Machinery And Related Trades)"
+1208,7200,"Supervisors And General Foremen (Metal, Machinery And Related Trades)"
+1209,72000,"Supervisor/General Foreman (Metal, Machinery And Related Trades)"
+1210,721,"Sheet And Structural Metal Workers, Moulders And Welders And Related Trades Workers"
+1211,7211,Metal Moulders And Coremakers
+1212,72111,Metal Moulder
+1213,72112,Coremaker
+1214,7212,Welders And Flame Cutters
+1215,72121,Welder
+1216,72122,Flame Cutter
+1217,7213,Sheet Metal Workers
+1218,72131,Sheet Metal Worker (General)
+1219,72132,Boilermaker
+1220,72133,Panel Beater
+1221,72139,Other Sheet Metal Workers
+1222,7214,Structural Metal Preparers And Erectors
+1223,72141,Structural Steel Worker (Workshop)/Fabricator
+1224,72142,Reinforcing Iron Worker/Steel Reinforcement Worker
+1225,72143,Structural Steel Erector
+1226,72144,Metal Shipwright
+1227,72145,Ship Plater
+1228,72146,Mould Lofter
+1229,72149,Other Structural Metal Preparers And Erectors
+1230,7215,Riggers And Cable Splicers
+1231,72151,Hoisting Equipment Rigger (General)
+1232,72152,Rope And Cable Splicer (General)
+1233,72153,Hoisting Equipment Rigger (Construction)
+1234,72154,Ship Rigger
+1235,72155,Oil And Gas Well Drilling Rigger
+1236,72159,Other Riggers And Cable Splicers
+1237,722,"Blacksmiths, Toolmakers And Related Trades Workers"
+1238,7221,"Blacksmiths, Hammersmiths And Forging-Press Workers"
+1239,72211,Blacksmith (General)
+1240,72212,Forging-Press Operator
+1241,72219,"Other Blacksmiths, Hammersmiths And Forging-Press Workers"
+1242,7222,Toolmakers And Related Workers
+1243,72221,Tool And Die Maker
+1244,72222,Jig And Gauge Maker
+1245,72223,Metal Pattern Maker
+1246,72224,Locksmith
+1247,72229,Other Toolmakers And Related Workers
+1248,7224,"Metal Polishers, Wheel Grinders And Tool Sharpeners"
+1249,72241,Buffing/Polishing Machine Operator
+1250,72242,Tool Grinder (Machine Tools)
+1251,72249,"Other Metal Polishers, Grinders And Tool Sharpeners"
+1252,723,"Machinery Mechanics, Fitters And Repairers"
+1253,7231,Motor Vehicle Mechanics And Repairers
+1254,72311,Motor Vehicle Mechanic
+1255,72312,Motor Vehicle Body Builder
+1256,7232,Aircraft Engine Mechanics And Repairers
+1257,72321,Aircraft Engine Mechanic
+1258,72322,Aircraft Engine Fitter
+1259,7233,Other Machinery Mechanics And Repairers
+1260,72331,Machinery Mechanic (General)
+1261,72332,Machinery Fitter (General)
+1262,72333,Industrial/Office Machinery Mechanic
+1263,72334,Marine Engine Fitter
+1264,72335,Machinery Erector/Installer
+1265,72339,"Other Machinery Mechanics And Repairers (Eg Agricultural Machinery Mechanic, Bicycle Repairer)"
+1266,73,"Precision, Handicraft, Printing And Related Trades Workers"
+1267,730,"Supervisors And General Foremen (Precision, Handicraft, Printing And Related Trades)"
+1268,7300,"Supervisors And General Foremen (Precision, Handicraft, Printing And Related Trades)"
+1269,73000,"Supervisor/General Foreman (Precision, Handicraft, Printing And Related Trades)"
+1270,731,Handicraft And Precision Workers
+1271,7311,Precision Instrument Makers And Repairers
+1272,73111,Watch And Clock Assembler
+1273,73112,Watch And Clock Repairer
+1274,73113,Optical Instrument Maker/Repairer
+1275,73114,Medical Device Assembler/Repairer
+1276,73119,Other Precision Instrument Makers And Repairers
+1277,7312,"Musical Instrument Makers, Repairers And Tuners"
+1278,73120,Musical Instrument Maker/Repairer/Tuner
+1279,7313,Jewellery And Precious Metal Workers
+1280,73131,Jewellery Worker (General)
+1281,73132,Gem Setter/Cutter And Polisher
+1282,73133,Goldsmith/Silversmith
+1283,73134,Jewellery Engraver
+1284,73139,Other Jewellery And Precious Metal Workers
+1285,7314,Potters And Related Workers
+1286,73141,Pottery Worker
+1287,73142,Brick And Tile Moulder
+1288,73149,Other Potters And Related Workers
+1289,7315,"Glass Makers, Cutters, Grinders And Finishers"
+1290,73151,Glass Blower
+1291,73152,Glass Lens Moulder
+1292,73153,Optical Glass Cutter
+1293,73154,Lens Grinding Machine Operator
+1294,73155,Lens Polishing Machine Operator
+1295,73159,"Other Glass Makers, Cutters, Grinders And Finishers"
+1296,7316,"Sign Writers, Decorative Painters, Engravers And Etchers"
+1297,73161,Glass Engraver/Etcher
+1298,73162,Glass And Ceramic Painter/Decorator
+1299,73169,Other Engravers And Related Decorative Painters
+1300,732,Printing Trades Workers
+1301,7321,Pre-Press Trades Workers
+1302,73211,Compositor/Typesetter
+1303,73212,Stereotyper
+1304,73213,Electrotyper
+1305,73214,Photo-Engraver
+1306,73215,Photogravure Cameraman
+1307,73216,Photogravure Retoucher
+1308,73217,Photogravure Etcher
+1309,73219,Other Pre-Press Trades Workers
+1310,7322,Printers
+1311,73221,Silk Screen/Block/Textile Printer
+1312,73229,Other Printers
+1313,74,Electrical And Electronic Trades Workers
+1314,740,Supervisors And General Foremen (Electrical And Electronic Trades)
+1315,7400,Supervisors And General Foremen (Electrical And Electronic Trades)
+1316,74000,Supervisor/General Foreman (Electrical And Electronic Trades)
+1317,741,Electrical Equipment Related Trades Workers
+1318,7411,Electricians
+1319,74110,Electrician
+1320,7412,Electrical Mechanics And Fitters
+1321,74121,Electrical Fitter (General)
+1322,74122,"Electrical Lift, Escalator And Related Equipment Fitter"
+1323,74123,Electrical Household Appliance Repairer
+1324,74129,Other Electrical Mechanics And Fitters
+1325,7413,Electrical Line Installers And Repairers
+1326,74131,Electrical Line Installer
+1327,74132,Electric Cable Jointer
+1328,74139,Other Electrical Line Installers And Repairers
+1329,742,Electronics And Telecommunications Related Trades Workers
+1330,7421,Electronics Mechanics And Servicers
+1331,74211,Electronics Fitter (General)
+1332,74212,Consumer Audio And Video Equipment Mechanic
+1333,74219,Other Electronics Fitters
+1334,7422,Information And Communications Technology Installers And Servicers
+1335,74221,"Radio, Television And Radar Broadcasting/Transmitting Equipment Fitter"
+1336,74222,Computer And Related Electronic Equipment Mechanic
+1337,74223,Telecommunications Lineman
+1338,74224,Telecommunications Installer/Servicer
+1339,75,"Food Processing, Woodworking, Garment, Leather And Other Craft And Related Trades Workers"
+1340,750,"Supervisors And General Foremen (Food Processing, Woodworking, Garment, Leather And Related Trades)"
+1341,7500,"Supervisors And General Foremen (Food Processing, Woodworking, Garment, Leather And Related Trades)"
+1342,75000,"Supervisor/General Foreman (Food Processing, Woodworking, Garment, Leather And Related Trades)"
+1343,751,Food Processing And Related Trades Workers
+1344,7511,Meat And Fish Preparers
+1345,75111,Slaughterer
+1346,75119,Other Meat And Fish Preparers
+1347,7512,"Bakers, Pastry And Confectionery Makers"
+1348,75121,Baker (General)
+1349,75122,Bread Baker
+1350,75123,Pastry And Confectionery Maker
+1351,7515,Food And Beverage Tasters And Graders
+1352,75151,Coffee And Tea Taster
+1353,75159,Other Food And Beverage Tasters And Graders
+1354,7519,Food Processing And Related Trades Workers Not Elsewhere Classified
+1355,75190,Food Processing And Related Trades Worker N.E.C. (Eg Fruit Pickler)
+1356,752,"Wood Treaters, Cabinet Makers And Related Trades Workers"
+1357,7521,Wood Treaters
+1358,75211,Kiln Drier
+1359,75212,Wood-Treating Worker
+1360,75219,Other Wood Treaters
+1361,7522,Cabinet Makers And Wood Related Trades Workers
+1362,75221,Cabinet And Furniture Maker
+1363,75222,Wood Furniture Finisher
+1364,75223,Picture Frame Maker
+1365,75229,Other Cabinet Makers And Wood Related Trades Workers
+1366,7529,Furniture Makers And Related Trades Workers Not Elsewhere Classified
+1367,75291,Rattan Furniture Maker
+1368,75299,Other Furniture Makers And Related Trades Workers N.E.C.
+1369,753,"Garment, Leather And Related Trades Workers"
+1370,7531,Tailors/Dressmakers
+1371,75310,Tailor/Dressmaker
+1372,7532,Garment And Related Pattern-Makers And Cutters
+1373,75321,Garment Cutter
+1374,75322,Garment Pattern-Maker
+1375,75323,Garment Marker
+1376,75329,Other Garment And Related Pattern-Makers And Cutters
+1377,7534,Upholsterers And Related Workers
+1378,75341,Furniture Upholsterer
+1379,75342,Vehicle Upholsterer
+1380,75343,Mattress Maker
+1381,75349,Other Upholsterers And Related Workers
+1382,7536,Shoemakers And Related Workers
+1383,75361,Shoemaker
+1384,75362,Orthopaedic Footwear Maker
+1385,75363,Cobbler
+1386,75364,Leather Goods Maker/Assembler
+1387,75369,Other Shoemakers And Related Workers
+1388,7539,Garment And Related Trades Workers Not Elsewhere Classified
+1389,75390,"Garment And Related Trades Worker N.E.C. (Eg Fellmonger, Tent Sewer, Umbrella Maker)"
+1390,754,Other Craft And Related Workers
+1391,7540,Other Craft And Related Workers
+1392,75401,Fumigators/Pest And Weed Controllers
+1393,75402,Underwater Diver
+1394,75409,Other Craft And Related Workers N.E.C.
+1395,8,Plant And Machine Operators And Assemblers
+1396,81,Stationary Plant And Machine Operators
+1397,810,Stationary Plant And Machine Supervisors And General Foremen
+1398,8100,Stationary Plant And Machine Supervisors And General Foremen
+1399,81000,Stationary Plant And Machine Supervisor/General Foreman
+1400,811,Mining And Mineral Processing Plant Operators
+1401,8113,Well Drillers And Borers And Other Mining Related Workers
+1402,81131,Well Driller (Petroleum And Gas Wells)
+1403,81132,Well Driller/Borer (Except Oil And Gas Wells)
+1404,81133,Deep-Boring Machine Operator
+1405,81139,Other Well Drillers And Borers And Other Mining Related Workers
+1406,8114,Cement And Other Mineral Products Machine Operators
+1407,81141,Precast Concrete Product Making Machine Operator
+1408,81142,Asbestos Cement Product Making Machine Operator
+1409,81143,Terrazzo Tile Making Machine Operator
+1410,81144,Concrete Mixing Plant Operator (Including Concrete Mixer Operator)
+1411,81145,Concrete Pump Operator
+1412,81149,Other Mineral Products And Processing Machine Operators
+1413,812,"Metal Processing, Finishing And Products Plant Operators"
+1414,8121,"Metal Melters, Casters And Rolling Mill Operators"
+1415,81211,Ore And Metal Furnace Operator (Including Furnaceman)
+1416,81212,Centrifugal Casting Machine Operator
+1417,81213,Die Casting Machine Operator
+1418,81214,Continuous Rod Casting Machine Operator (Non-Ferrous Metal)
+1419,81215,Metal Rolling Mill Worker
+1420,81219,"Other Metal Melters, Casters And Rolling Mill Operators"
+1421,8122,Metal Heat Treating Plant Operators
+1422,81220,Metal Heat Treating Plant Operator
+1423,8123,Metal Drawers And Extruders
+1424,81231,Wire Drawer
+1425,81232,Seamless Pipe And Tube Drawer
+1426,81233,Extruder Operator (Metal)
+1427,81239,Other Metal Drawers And Extruders
+1428,8124,"Metal Finishing, Plating And Coating Machine Operators"
+1429,81241,Electro-Plater
+1430,81242,Hot-Dip Plater
+1431,81243,Wire-Coating Machine Operator
+1432,81244,Galvaniser
+1433,81245,Metal Sprayer
+1434,81246,Anodiser
+1435,81247,Sandblaster/Shotblaster (Metal)
+1436,81248,Metal Cleaner
+1437,81249,"Other Metal Finishing, Plating And Coating Machine Operators"
+1438,8125,Machine-Tool Setter-Operators
+1439,81251,Metalworking Machine Setter-Operator (General)
+1440,81252,Lathe Setter-Operator
+1441,81253,Milling Machine Setter-Operator
+1442,81254,Planing Machine Setter-Operator
+1443,81255,Boring/Drilling Machine Setter-Operator
+1444,81256,Shaping And Honing Machine Setter-Operator
+1445,81257,Precision Grinding Machine Setter-Operator
+1446,81258,Numerical Control Machine Setter-Operator
+1447,81259,Other Machine-Tool Setter-Operators
+1448,813,"Chemical Processing, Chemical And Photographic Products Plant And Machine Operators"
+1449,8131,Chemical Processing And Chemical Products Plant And Machine Operators
+1450,81311,Crushing/Grinding/Chemical Mixing Equipment Operator
+1451,81312,Chemical Heat Treating Plant Operator
+1452,81313,Chemical Filtering And Separating Equipment Operator
+1453,81314,Chemical Still/Reactor Operator
+1454,81315,Synthetic Fibre Making Machine Operator
+1455,81319,Other Chemical Processing And Chemical Products Plant And Machine Operators
+1456,8132,Photographic Products Machine Operators
+1457,81320,Photographic Products Machine Operator
+1458,8133,Pharmaceutical And Toiletry Products Machine Operators
+1459,81331,Pharmaceutical Products Machine Operator
+1460,81332,Soap-Making Machine Operator
+1461,81339,Other Toiletry Products Machine Operators
+1462,8139,"Chemical Processing, Chemical And Photographic Products Plant And Machine Operators Not Elsewhere Classified"
+1463,81390,"Chemical Processing, Chemical And Photographic Products Plant And Machine Operator N.E.C."
+1464,814,"Rubber, Plastic And Paper Products Machine Operators"
+1465,8141,Rubber Products Machine Operators
+1466,81411,Rubber Millman
+1467,81412,Rubber Laminating Machine Operator
+1468,81419,Other Rubber Products Machine Operators
+1469,8142,Plastic Products Machine Operators
+1470,81420,Plastic Products Machine Operator
+1471,8143,Paper And Paperboard Products Machine Operators
+1472,81431,Carton/Paper Box Making Machine Operator
+1473,81432,Paper Product Making Machine Operator
+1474,81439,Other Paper And Paperboard Products Machine Operators
+1475,815,"Textile, Fur And Leather Products Machine Operators"
+1476,8151,"Fibre Preparing, Spinning And Winding Machine Operators"
+1477,81511,Spinner (Thread And Yarn)
+1478,81512,Winder (Thread And Yarn)
+1479,8152,Weaving And Knitting Machine Operators
+1480,81521,Weaving Machine Operator
+1481,81522,Knitting Machine Operator
+1482,8153,Sewing Machine Operators
+1483,81531,Sewing Machine Operator
+1484,81532,Machine Embroiderer
+1485,8154,"Bleaching, Dyeing And Fabric Cleaning Machine Operators"
+1486,81541,Textile Bleaching Machine Operator
+1487,81542,Dyeing Machine Operator
+1488,81543,Textile Washing/Shrinking Machine Operator
+1489,81549,"Other Bleaching, Dyeing And Fabric Cleaning Machine Operators"
+1490,8159,"Textile, Fur And Leather Products Machine Operators Not Elsewhere Classified"
+1491,81591,"Laundry And Dry Cleaning Worker (Machine, Non-Household)"
+1492,81599,"Other Textile, Fur And Leather Products Machine Operators N.E.C. (Eg Shoemaking And Related Machine Operators)"
+1493,816,Food And Related Products Machine Operators
+1494,8161,Meat And Fish Products Machine Operators
+1495,81611,Sausage Making Machine Operator
+1496,81619,Other Meat And Fish Processing Machine Operators
+1497,8162,Dairy And Confectionery Products Machine Operators
+1498,81621,Dairy Product Processing Machine Operator (General)
+1499,81622,Dairy Product Pasteurising Machine Operator
+1500,81623,Butter Making Machine Operator
+1501,81624,Ice-Cream Making Machine Operator
+1502,81625,Chocolate Making Machine Operator
+1503,81626,Confectionery Making Machine Operator
+1504,81629,Other Dairy And Confectionery Products Machine Operators
+1505,8163,Grain And Spice Milling Machine Operators
+1506,81630,Grain/Spice Milling Machine Operator
+1507,8164,Baked And Cereal Products Machine Operators
+1508,81641,Biscuit Making Machine Operator
+1509,81642,Macaroni/Noodle/Vermicelli Making Machine Operator
+1510,81649,Other Baked And Cereal Products Machine Operators
+1511,8165,"Fruit, Vegetable And Nut Products Machine Operators"
+1512,81651,Fruit-Press Operator
+1513,81652,Oil Pressman (Edible Oils)
+1514,81653,Refining Machine Operator (Oils And Fats)
+1515,81654,Hydrogenation Operator (Oils And Fats)
+1516,81655,Sauce Making Machine Operator
+1517,81659,"Other Fruit, Vegetable And Nut Processing Machine Operators"
+1518,8166,Sugar Processing And Refining Machine Operators
+1519,81660,Sugar Processing And Refining Machine Operator
+1520,8167,Brewers And Wine And Other Beverage Machine Operators
+1521,81671,Germination Worker (Malting)
+1522,81672,Kilnman (Malting)
+1523,81673,Brewer
+1524,81674,Fermenting-Room Man
+1525,81675,Pasteuriser Attendant (Malt Liquor)
+1526,81676,Syrup Making Machine Operator
+1527,81677,Coffee/Tea Blending Machine Operator
+1528,81678,Coffee/Cocoa Bean Roasting And Grinding Machine Operator
+1529,81679,Other Brewers And Wine And Other Beverage Machine Operators
+1530,8168,Tobacco Products Machine Operators
+1531,81681,Cigarette Making Machine Operator
+1532,81689,Other Tobacco Products Machine Operators
+1533,8169,Food And Related Products Machine Operators Not Elsewhere Classified
+1534,81691,Bean Curd Making Machine Operator
+1535,81692,Ice Making Machine Operator
+1536,81693,Feed Mixing Machine Operator
+1537,81694,Fish Feed Making Machine Operator
+1538,81699,Other Food And Related Products Machine Operators N.E.C.
+1539,817,Wood Processing And Papermaking Plant Operators
+1540,8171,Pulp And Papermaking Plant Operators
+1541,81711,Paper Pulp Plant Operator
+1542,81712,Papermaking Machine Operator
+1543,81719,Other Pulp And Papermaking Plant Operators
+1544,8172,Wood Processing Plant Operators
+1545,81721,Sawyer
+1546,81722,Veneer Cutter
+1547,81723,Plywood Core Layer
+1548,81724,Plywood Press Operator
+1549,81725,Wood Grader
+1550,81729,Other Wood Processing Plant Operators
+1551,8173,Wood Products Machine Operators
+1552,81731,Woodworking Machine Setter-Operator
+1553,81732,Precision Wood Sawyer
+1554,81739,Other Wood Products Machine Operators
+1555,818,Other Stationary Plant And Machine Operators
+1556,8181,Glass And Ceramics Plant Operators
+1557,81811,Glass/Ceramics Kiln Machine Operator
+1558,81812,Fibreglass Maker
+1559,81819,Other Glass And Ceramics Plant Operators
+1560,8182,Steam Engine And Boiler Operators
+1561,81821,Boiler Fireman
+1562,81822,Ship'S Fireman
+1563,81823,Ship'S Oiler/Greaser
+1564,81829,"Other Steam Turbine, Boiler And Engine Operators"
+1565,8183,"Packing, Bottling And Labelling Machine Operators"
+1566,81830,Packing/Bottling/Labelling Machine Operator
+1567,8184,"Printing, Binding And Related Machine Operators"
+1568,81841,Printing Machine Operator
+1569,81842,Bookbinding Machine Operator
+1570,81843,Book Embossing Machine Operator
+1571,81849,"Other Printing, Binding And Related Machine Operators"
+1572,8185,"Incineration Plant, Water Treatment And Related Machine Operators"
+1573,81851,Stationary Engine Operator (General)
+1574,81852,Compressor Operator
+1575,81853,Pumping Station Operator
+1576,81854,Water Treatment Machine Operator (Waterworks)
+1577,81855,Refrigeration System Operator
+1578,81859,"Other Incineration Plant, Water Treatment And Related Machine Operators"
+1579,8186,Power Generating Plant Operators
+1580,81860,Power Generating Plant Operator
+1581,8187,Petroleum And Natural Gas Refining Plant Operators
+1582,81871,Petroleum And Natural Gas Refining Plant Operator
+1583,81872,Cylinder Filler/Tester (Compressed And Liquefied Gases)
+1584,8188,Automated Assembly Line And Industrial Robot Operators
+1585,81880,Automated Assembly Line/Industrial Robot Operator
+1586,8189,Stationary Plant And Machine Operators Not Elsewhere Classified
+1587,81890,Stationary Plant And Machine Operator N.E.C.
+1588,82,Assemblers And Quality Checkers
+1589,820,Supervisors And General Foremen Of Assemblers And Quality Checkers
+1590,8200,Supervisors And General Foremen Of Assemblers And Quality Checkers
+1591,82000,Supervisor/General Foreman Of Assemblers And Quality Checkers
+1592,821,"Assemblers, Quality Checkers And Testers"
+1593,8212,Electrical And Electronic Equipment Assemblers
+1594,82121,Electrical Equipment/Component Assembler
+1595,82122,Electronic Equipment/Component Assembler
+1596,82123,Battery Assembler
+1597,8213,Quality Checkers And Testers
+1598,82131,Electrical/Electronic Products Quality Checker And Tester
+1599,82132,Mechanical Products Quality Checker And Tester
+1600,82139,Other Quality Checkers And Testers
+1601,8219,Assemblers Not Elsewhere Classified
+1602,82191,Toy Assembler
+1603,82199,"Other Assemblers N.E.C. (Eg Plastic Products Assembler, Rubber Products Assembler)"
+1604,83,Drivers And Mobile Machinery Operators
+1605,830,Mobile Machinery Supervisors And General Foremen
+1606,8300,Mobile Machinery Supervisors And General Foremen
+1607,83000,Mobile Machinery Supervisor And General Foreman
+1608,831,Mrt Train Operators And Related Workers
+1609,8311,Mrt Train Operators
+1610,83110,Mrt Train Operator
+1611,8312,Railway Brakers And Related Workers
+1612,83121,Railway Brakeman/Signalman/Shunter
+1613,83129,Other Railway Brakers And Related Workers
+1614,832,Car And Light Goods Vehicle Drivers
+1615,8321,Motorcycle Delivery Men
+1616,83210,Motorcycle Delivery Man
+1617,8322,"Car, Taxi, Van And Light Goods Vehicle Drivers"
+1618,83221,Taxi Driver
+1619,83222,Chauffeur
+1620,83223,Van Driver
+1621,83224,Ambulance Driver
+1622,83225,Parking Valet
+1623,83229,Other Car And Light Goods Vehicle Drivers
+1624,833,Heavy Truck And Bus Drivers
+1625,8331,Bus And Tram Drivers
+1626,83311,Bus Driver
+1627,83312,Tram Driver
+1628,8332,Heavy Truck And Lorry Drivers
+1629,83321,Lorry Driver
+1630,83322,Trailer-Truck Driver (Including Prime Mover Driver)
+1631,83323,Fire-Engine Driver
+1632,83324,Airport Mobile Equipment Driver
+1633,83325,Concrete Mix Truck Driver
+1634,83326,Waste Truck Driver (Including Hooklift Trucks With Roll-On Containers)
+1635,83329,Other Heavy Truck And Lorry Drivers
+1636,834,Mobile Machinery Operators
+1637,8342,Earth Moving And Related Machinery Operators
+1638,83421,Excavating/Trench Digging Machine Operator
+1639,83422,Bulldozer Operator
+1640,83423,Dredge Operator
+1641,83424,Pile Driver/Drilling Machine Operator
+1642,83425,Road Making Machine Operator
+1643,83426,Tunnelling Machine Operator (Including Pipe Jacking Machine Operator)
+1644,83429,Other Earth Moving And Related Machinery Operators
+1645,8343,"Crane, Hoist And Related Equipment Operators"
+1646,83431,Crane/Hoist Operator (General)
+1647,83432,Crane Operator (Port)
+1648,83439,"Other Crane, Hoist And Related Equipment Operators"
+1649,8344,Lifting Truck Operators
+1650,83441,Fork Lift Truck Operator
+1651,83449,Other Lifting Truck Operators
+1652,8349,Mobile Machinery Operators Not Elsewhere Classified
+1653,83491,Motorised Sweeper Operator
+1654,83499,Mobile Machinery Operator N.E.C. (Eg Mobile Farm Plant Operator)
+1655,835,Ships’ Deck Crew And Related Workers
+1656,8350,Ships’ Deck Crew And Related Workers
+1657,83501,Helmsman/Steersman
+1658,83502,Deckhand (Including Lighterman)
+1659,83509,Other Ships’ Deck Crew And Related Workers
+1660,9,"Cleaners, Labourers And Related Workers"
+1661,91,Cleaners And Related Workers
+1662,910,Cleaning Supervisors
+1663,9100,Cleaning Supervisors
+1664,91000,Cleaning Supervisor
+1665,911,"Cleaners And Helpers In Hotels, Offices And Other Establishments"
+1666,9112,Cleaners And Helpers In Hotels And Related Establishments
+1667,91121,Room Steward/Chambermaid
+1668,91122,Hotel Cleaner
+1669,91129,Other Cleaners And Helpers In Hotels And Related Establishments
+1670,9113,Cleaners In Offices
+1671,91130,Office Cleaner
+1672,9114,Cleaners In Industrial Establishments
+1673,91140,Industrial Establishment Cleaner
+1674,9115,Cleaners In Food And Beverage Establishments
+1675,91151,"Food And Beverage Establishment Cleaner (Eg Restaurants, Food Courts, Hawker Centres)"
+1676,91152,Dish Washer/Plate Collector/Table-Top Cleaner
+1677,9116,Cleaners In Residential Areas
+1678,91160,"Residential Area Cleaner (Eg Hdb Estates, Condominiums, Private Apartments, Common Areas Within Residential Estates)"
+1679,9117,Cleaners In Open Areas
+1680,91170,"Cleaner In Open Areas (Eg Bus Stops, Drains, Waterways, Overhead Bridges, Roads, Expressways, Parks, Beaches)"
+1681,9119,Cleaners In Other Establishments
+1682,91190,"Cleaner In Other Establishments (Eg Shopping Malls, Schools, Hospitals, Places Of Worship)"
+1683,912,"Vehicle, Window, Laundry And Other Hand Cleaning Workers"
+1684,9121,Hand Launderers And Pressers
+1685,91210,Hand Launderer/Presser (Non-Household)
+1686,9122,Vehicle Cleaners
+1687,91220,Motor Vehicle Cleaner/Polisher
+1688,9123,Window Cleaners
+1689,91230,Window Cleaner
+1690,9129,Cleaning Workers Not Elsewhere Classified
+1691,91291,Ship/Ship Tank Cleaner
+1692,91292,Aircraft Cleaner
+1693,91293,"Railway Carriage Cleaner (Include Mrt, Lrt And Monorail)"
+1694,91299,Other Cleaning Workers N.E.C.
+1695,913,Domestic Helpers And Cleaners
+1696,9130,Domestic Helpers And Cleaners
+1697,91301,Domestic Helper (General)
+1698,91309,Other Domestic Helpers And Cleaners
+1699,92,"Agricultural, Fishery And Related Labourers"
+1700,921,"Agricultural, Fishery And Related Labourers"
+1701,9214,Park And Garden Maintenance Workers
+1702,92141,Garden Labourer
+1703,92142,Grass Cutter
+1704,92143,Tree Cutter
+1705,92149,Other Park And Garden Maintenance Workers (Including Landscape Worker)
+1706,9219,"Agricultural, Fishery Labourers And Related Workers Not Elsewhere Classified"
+1707,92190,Agricultural And Fishery Labourer And Related Worker N.E.C. (Eg Farm Labourer)
+1708,93,Labourers And Related Workers
+1709,931,Construction Labourers And Related Workers
+1710,9310,Civil Engineering And Building Construction Labourers
+1711,93100,Civil Engineering/Building Construction Labourer
+1712,932,Manufacturing Labourers And Related Workers
+1713,9320,Manufacturing Labourers And Related Workers
+1714,93201,Hand Packer
+1715,93209,Manufacturing Labourer And Related Worker N.E.C. (Eg Rubber Sheets Clipper And Sorter)
+1716,933,Transport And Storage Labourers
+1717,9331,Hand And Pedal Vehicle Drivers
+1718,93310,Hand/Pedal Vehicle Driver
+1719,9333,Material And Freight Handling Workers
+1720,93331,Stevedore
+1721,93332,Railway/Road Vehicle Loader
+1722,93333,Aircraft Loader (Eg Airport Baggage/Cargo Handler)
+1723,93334,Godown Labourer
+1724,93335,Lorry Attendant
+1725,93336,Mover
+1726,93337,Lashing Worker
+1727,93339,Other Material And Freight Handling Workers
+1728,94,Food Preparation And Kitchen Assistants
+1729,941,Food Preparation And Kitchen Assistants
+1730,9410,Food Preparation And Kitchen Assistants
+1731,94101,Kitchen Assistant
+1732,94102,Food/Drink Stall Assistant
+1733,94103,Fast Food Preparer
+1734,94104,"Tea Server/Steward (Excluding Bartender, Barista And Food/Drink Stall Assistant)"
+1735,96,Waste And Recyclables Collection Workers And Other Elementary Workers
+1736,960,Waste And Recyclables Collection Supervisors
+1737,9600,Waste And Recyclables Collection Supervisors
+1738,96000,Waste And Recyclables Collection Supervisor
+1739,961,Waste And Recyclables Collection Workers
+1740,9611,Waste And Recyclables Collection Workers
+1741,96111,General Waste And Recyclables Collection Worker
+1742,96112,Recyclables Sorter
+1743,96113,Greasy Waste Collection Worker
+1744,96119,Other Waste And Recyclables Collection Worker
+1745,962,"Porters, Attendants And Related Workers"
+1746,9621,Porters And Related Workers
+1747,96211,Bell Captain
+1748,96212,Bellboy/Hotel Porter
+1749,96213,Porter (Except Hotel)
+1750,9625,Attendants
+1751,96251,Office/Library Attendant
+1752,96252,Laboratory Attendant
+1753,96253,Hospital/Clinic Attendant
+1754,96254,Car Park Attendant
+1755,96255,"Sports And Recreational Attendant (Eg Golf Marshal, Golf Caddie, Fun Fair Attendant, Bowling Alley Attendant, Swimming Pool Attendant)"
+1756,96256,Bus Attendant
+1757,96257,Restroom Attendant
+1758,96259,Other Attendants
+1759,9626,Watchmen And Related Workers
+1760,96261,Building Caretaker/Watchman
+1761,96262,Doorman
+1762,96269,Other Watchmen And Related Workers (Eg Lighthouse Keeper)
+1763,9629,Other Elementary Workers
+1764,96291,Leaflet And Newspaper Distributor/Deliverer
+1765,96292,Meter Reader/Vending-Machine Collector
+1766,96293,Odd Job Person
+1767,96299,Other Elementary Workers N.E.C.
+1768,X,Workers Not Elsewhere Classified
+1769,X1000,Worker Reporting Unidentifiable Or Inadequately Described Occupation
+1770,X2000,Worker Not Reporting Any Occupation
+1771,X3000,Singapore Armed Forces Personnel
+1772,X4000,Foreign Armed Forces Personnel
+1773,X5000,Foreign Diplomatic Personnel
